@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/twangboy">
+    <img height="250" src="https://github-readme-stats.vercel.app/api?username=twangboy&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/twangboy">
+    <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=twangboy&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
+  </a>
+</p>
 
 <!--
 **twangboy/twangboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
