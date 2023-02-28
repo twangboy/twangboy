@@ -1,5 +1,5 @@
 ![Twangboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=twangboy&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
-![Twangboy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=twangboy&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
+![Twangboy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=twangboy&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&langs_count=5)
 
 <!--
 **twangboy/twangboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
